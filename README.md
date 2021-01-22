@@ -1,0 +1,3 @@
+# WestTwoThirdRound
+1，sql文件中的是建表sql，其中covid-19-form为数据库的sql文件，其他为表的sql
+2，编程的java文件保存在src文件的test文件夹中其中maintest和bean文件最为主要，其他的比如带test开头的文件为在学习过程中的一些实验之类
